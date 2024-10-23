@@ -1,10 +1,48 @@
 <h1 align="center">Hi 👋, I'm Azad Kumar</h1>
 <h3 align="center">I'm a 3rd-year B.Tech student at IIIT Chennai, passionate about Machine Learning and Data Analysis. With a solid foundation in data science, I'm continuously exploring new ways to leverage data-driven techniques to solve real-world problems.</h3>
 
-#📈 Currently Learning:
-Advanced Natural Language Processing techniques.
-Real-time Stock Market Prediction models.
-Building scalable data pipelines and deploying ML models
+Here’s an intro README you can use to introduce yourself:
+
+---
+
+# Hi, I'm [Your Name] 👋
+
+I'm a 3rd-year B.Tech student at **IIIT Chennai**, passionate about **Machine Learning** and **Data Analysis**. With a solid foundation in **data science**, I'm continuously exploring new ways to leverage data-driven techniques to solve real-world problems.
+
+## 👨‍💻 What I’m working on:
+- **Machine Learning** projects focused on predictive modeling and automation.
+- **Data Analysis** and visualization, turning raw data into actionable insights.
+- Exploring **Deep Learning** for NLP and computer vision tasks.
+
+## 💡 Skills:
+- **Programming Languages**: Python, C++, JavaScript (basic)
+- **Machine Learning Frameworks**: TensorFlow, Scikit-Learn
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Database Management**: SQL, SQLite
+- **Tools & Platforms**: Jupyter Notebook, Git, VS Code
+- **Web Development**: HTML, CSS, JavaScript (basic knowledge)
+
+## 🔬 What I’m interested in:
+- Applying **ML** and **AI** solutions to solve industry problems, especially in sectors like finance, healthcare, and retail.
+- **Data Analysis** and building dashboards to make complex datasets more understandable.
+- **NLP** and **Computer Vision** projects that push the boundaries of human-computer interaction.
+
+## 📈 Currently Learning:
+- Advanced **Natural Language Processing** techniques.
+- Real-time **Stock Market Prediction** models.
+- Building scalable **data pipelines** and deploying ML models.
+
+## 🎯 Career Aspirations:
+I’m aiming to step into roles like **Machine Learning Engineer** or **Data Analyst**, where I can use my skills to develop intelligent systems and help organizations make data-driven decisions.
+
+## 🔗 Let's Connect:
+- **LinkedIn**: [Your LinkedIn URL]
+- **GitHub**: [Your GitHub URL]
+- **Portfolio**: [If applicable, Your Portfolio URL]
+
+---
+
+Feel free to customize this further to match your personal style and any additional details you’d like to highlight!
 
 - 📫 How to reach me **azadkumarjha09@gmail.com**
 
