@@ -20,7 +20,7 @@ I'm a 3rd-year B.Tech student at **IIIT Chennai**, passionate about **Machine Le
 
 ### Machine Learning & Data Science:
 - **Frameworks**: TensorFlow, Scikit-Learn
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Powerbi
 - **Modeling**: Linear Regression, Decision Trees, Random Forest, Neural Networks
 - **NLP**: Text processing, tokenization, NER, sentiment analysis
 
