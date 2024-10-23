@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Azad Kumar</h1>
-<h3 align="center">I'm a 3rd-year B.Tech student at IIIT Chennai, passionate about Machine Learning and Data Analysis. With a solid foundation in data science, I'm continuously exploring new ways to leverage data-driven techniques to solve real-world problems.</h3>
-Here’s an updated version of the README that includes the **Software Engineering** aspect:
 
 ---
 
@@ -17,8 +14,8 @@ I'm a 3rd-year B.Tech student at **IIIT Chennai**, passionate about **Machine Le
 ## 💡 Skills:
 ### Programming & Development:
 - **Languages**: Python, C++, JavaScript
-- **Web Development**: HTML, CSS, JavaScript (Basic), Django (Python), Flask (Python)
-- **Database Management**: SQL, SQLite, NoSQL (basic)
+- **Web Development**: HTML, CSS, JavaScript (Basic), Flask (Python)
+- **Database Management**: SQL, SQLite
 - **Version Control**: Git, GitHub
 
 ### Machine Learning & Data Science:
@@ -29,34 +26,15 @@ I'm a 3rd-year B.Tech student at **IIIT Chennai**, passionate about **Machine Le
 
 ### Software Engineering:
 - **Software Design**: Object-Oriented Programming (OOP), Design Patterns
-- **API Development**: RESTful APIs using Flask and Django
+- **API Development**: RESTful APIs using Flask
 - **Testing**: Unit testing with PyTest, debugging, and code optimization
-- **Agile Methodologies**: Working in an Agile environment, collaborating in teams using SCRUM
-
-## 🔬 What I’m interested in:
-- Applying **ML** and **AI** solutions to real-world problems in finance, healthcare, and retail.
-- Developing end-to-end software solutions that integrate machine learning models.
-- Building efficient, scalable **data pipelines** for enterprise applications.
-- Exploring **NLP** and **Computer Vision** to enhance user experiences in AI-driven apps.
-
+ 
 ## 📈 Currently Learning:
 - Advanced **Natural Language Processing** techniques for text analysis.
-- Real-time **Stock Market Prediction** and recommendation systems.
-- Improving my understanding of **Microservices Architecture** and building large-scale distributed systems.
+- API Development using Flask 
 
 ## 🎯 Career Aspirations:
 I’m aiming to step into roles such as **Machine Learning Engineer**, **Data Analyst**, or **Software Engineer** where I can use my skills in ML, data analysis, and software development to build intelligent systems that solve critical challenges.
-
-## 🔗 Let's Connect:
-- **LinkedIn**: [Your LinkedIn URL]
-- **GitHub**: [Your GitHub URL]
-- **Portfolio**: [If applicable, Your Portfolio URL]
-
----
-
-This version highlights your interest and skills in both **Machine Learning** and **Software Engineering**, emphasizing your ability to work across different technical domains.
-
-Feel free to customize this further to match your personal style and any additional details you’d like to highlight!
 
 - 📫 How to reach me **azadkumarjha09@gmail.com**
 
