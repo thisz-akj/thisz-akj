@@ -1,9 +1,6 @@
-
----
-
-# Hi, I'm Azad Kumar 👋
-
-I'm a 3rd-year B.Tech student at **IIIT Chennai**, passionate about **Machine Learning**, **Data Analysis**, and **Software Engineering**. I enjoy building data-driven solutions and developing scalable software applications, blending analytical thinking with creative problem-solving.
+<h1 align="center">Hi 👋, I'm Azad Kumar</h1>
+<h3 align="center">I'm a 3rd-year B.Tech student at IIIT Chennai, passionate about Machine Learning and Data Analysis. With a solid foundation in data science, I'm continuously exploring new ways to leverage data-driven techniques to solve real-world problems.</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 ## 👨‍💻 What I’m working on:
 - **Machine Learning** projects focused on predictive modeling and automation.
@@ -28,10 +25,6 @@ I'm a 3rd-year B.Tech student at **IIIT Chennai**, passionate about **Machine Le
 - **Software Design**: Object-Oriented Programming (OOP), Design Patterns
 - **API Development**: RESTful APIs using Flask
 - **Testing**: Unit testing with PyTest, debugging, and code optimization
- 
-## 📈 Currently Learning:
-- Advanced **Natural Language Processing** techniques for text analysis.
-- API Development using Flask 
 
 ## 🎯 Career Aspirations:
 I’m aiming to step into roles such as **Machine Learning Engineer**, **Data Analyst**, or **Software Engineer** where I can use my skills in ML, data analysis, and software development to build intelligent systems that solve critical challenges.
