@@ -1,7 +1,7 @@
 
 ---
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Azad Kumar 👋
 
 I'm a 3rd-year B.Tech student at **IIIT Chennai**, passionate about **Machine Learning**, **Data Analysis**, and **Software Engineering**. I enjoy building data-driven solutions and developing scalable software applications, blending analytical thinking with creative problem-solving.
 
