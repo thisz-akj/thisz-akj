@@ -1,39 +1,51 @@
 <h1 align="center">Hi 👋, I'm Azad Kumar</h1>
 <h3 align="center">I'm a 3rd-year B.Tech student at IIIT Chennai, passionate about Machine Learning and Data Analysis. With a solid foundation in data science, I'm continuously exploring new ways to leverage data-driven techniques to solve real-world problems.</h3>
-
-Here’s an intro README you can use to introduce yourself:
+Here’s an updated version of the README that includes the **Software Engineering** aspect:
 
 ---
 
 # Hi, I'm [Your Name] 👋
 
-I'm a 3rd-year B.Tech student at **IIIT Chennai**, passionate about **Machine Learning** and **Data Analysis**. With a solid foundation in **data science**, I'm continuously exploring new ways to leverage data-driven techniques to solve real-world problems.
+I'm a 3rd-year B.Tech student at **IIIT Chennai**, passionate about **Machine Learning**, **Data Analysis**, and **Software Engineering**. I enjoy building data-driven solutions and developing scalable software applications, blending analytical thinking with creative problem-solving.
 
 ## 👨‍💻 What I’m working on:
 - **Machine Learning** projects focused on predictive modeling and automation.
-- **Data Analysis** and visualization, turning raw data into actionable insights.
+- **Data Analysis** to extract insights from raw data and inform decision-making.
+- **Software Engineering** projects that involve designing and developing robust, scalable applications.
 - Exploring **Deep Learning** for NLP and computer vision tasks.
 
 ## 💡 Skills:
-- **Programming Languages**: Python, C++, JavaScript (basic)
-- **Machine Learning Frameworks**: TensorFlow, Scikit-Learn
+### Programming & Development:
+- **Languages**: Python, C++, JavaScript
+- **Web Development**: HTML, CSS, JavaScript (Basic), Django (Python), Flask (Python)
+- **Database Management**: SQL, SQLite, NoSQL (basic)
+- **Version Control**: Git, GitHub
+
+### Machine Learning & Data Science:
+- **Frameworks**: TensorFlow, Scikit-Learn
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Database Management**: SQL, SQLite
-- **Tools & Platforms**: Jupyter Notebook, Git, VS Code
-- **Web Development**: HTML, CSS, JavaScript (basic knowledge)
+- **Modeling**: Linear Regression, Decision Trees, Random Forest, Neural Networks
+- **NLP**: Text processing, tokenization, NER, sentiment analysis
+
+### Software Engineering:
+- **Software Design**: Object-Oriented Programming (OOP), Design Patterns
+- **API Development**: RESTful APIs using Flask and Django
+- **Testing**: Unit testing with PyTest, debugging, and code optimization
+- **Agile Methodologies**: Working in an Agile environment, collaborating in teams using SCRUM
 
 ## 🔬 What I’m interested in:
-- Applying **ML** and **AI** solutions to solve industry problems, especially in sectors like finance, healthcare, and retail.
-- **Data Analysis** and building dashboards to make complex datasets more understandable.
-- **NLP** and **Computer Vision** projects that push the boundaries of human-computer interaction.
+- Applying **ML** and **AI** solutions to real-world problems in finance, healthcare, and retail.
+- Developing end-to-end software solutions that integrate machine learning models.
+- Building efficient, scalable **data pipelines** for enterprise applications.
+- Exploring **NLP** and **Computer Vision** to enhance user experiences in AI-driven apps.
 
 ## 📈 Currently Learning:
-- Advanced **Natural Language Processing** techniques.
-- Real-time **Stock Market Prediction** models.
-- Building scalable **data pipelines** and deploying ML models.
+- Advanced **Natural Language Processing** techniques for text analysis.
+- Real-time **Stock Market Prediction** and recommendation systems.
+- Improving my understanding of **Microservices Architecture** and building large-scale distributed systems.
 
 ## 🎯 Career Aspirations:
-I’m aiming to step into roles like **Machine Learning Engineer** or **Data Analyst**, where I can use my skills to develop intelligent systems and help organizations make data-driven decisions.
+I’m aiming to step into roles such as **Machine Learning Engineer**, **Data Analyst**, or **Software Engineer** where I can use my skills in ML, data analysis, and software development to build intelligent systems that solve critical challenges.
 
 ## 🔗 Let's Connect:
 - **LinkedIn**: [Your LinkedIn URL]
@@ -41,6 +53,8 @@ I’m aiming to step into roles like **Machine Learning Engineer** or **Data Ana
 - **Portfolio**: [If applicable, Your Portfolio URL]
 
 ---
+
+This version highlights your interest and skills in both **Machine Learning** and **Software Engineering**, emphasizing your ability to work across different technical domains.
 
 Feel free to customize this further to match your personal style and any additional details you’d like to highlight!
 
