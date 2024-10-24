@@ -22,9 +22,9 @@
 - **NLP**: Text processing, tokenization, NER, sentiment analysis
 
 ### Software Engineering:
-- **Software Design**: Object-Oriented Programming (OOP), Design Patterns
+- **Software Design**: Object-Oriented Programming (OOP), Design Patterns, Data Structure Algorithms
 - **API Development**: RESTful APIs using Flask
-- **Testing**: Unit testing with PyTest, debugging, and code optimization
+
 
 ## 🎯 Career Aspirations:
 I’m aiming to step into roles such as **Machine Learning Engineer**, **Data Analyst**, or **Software Engineer** where I can use my skills in ML, data analysis, and software development to build intelligent systems that solve critical challenges.
