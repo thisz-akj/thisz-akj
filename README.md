@@ -6,7 +6,9 @@
 - **Machine Learning** projects focused on predictive modeling and automation.
 - **Data Analysis** to extract insights from raw data and inform decision-making.
 - **Software Engineering** projects that involve designing and developing robust, scalable applications.
+- Exploring Huggingface and Gen AI tools and trying to develop models for industrial and business purposes.
 - Exploring **Deep Learning** for NLP and computer vision tasks.
+  
 
 ## 💡 Skills:
 ### Programming & Development:
@@ -16,9 +18,9 @@
 - **Version Control**: Git, GitHub
 
 ### Machine Learning & Data Science:
-- **Frameworks**: TensorFlow, Scikit-Learn
+- **Frameworks**: TensorFlow, Pytorch, Scikit-Learn
 - **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Powerbi
-- **Modeling**: Linear Regression, Decision Trees, Random Forest, Neural Networks
+- **Tools**: Generative AI, HuggingFace, Deep learning models
 - **NLP**: Text processing, tokenization, NER, sentiment analysis
 
 ### Software Engineering:
