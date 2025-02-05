@@ -7,7 +7,7 @@
 - **Data Analysis** to extract insights from raw data and inform decision-making.
 - **Software Engineering** projects that involve designing and developing robust, scalable applications.
 - Exploring **Huggingface** and **Gen AI tools** and trying to develop models for industrial and business purposes.
-- Exploring **Deep Learning** for **NLP** and computer vision tasks.
+- Exploring **Deep Learning** for **NLP** and **computer vision** tasks.
   
 
 ## 💡 Skills:
