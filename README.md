@@ -6,12 +6,10 @@ Here’s your updated profile with **Docker, AWS, and CI/CD** added to your skil
 <h3 align="center">I'm a 3rd-year B.Tech student at IIIT Chennai, passionate about Machine Learning and Data Analysis. With a solid foundation in data science, I'm continuously exploring new ways to leverage data-driven techniques to solve real-world problems.</h3>  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">  
 
-## 👨‍💻 What I’m working on:  
-- **Machine Learning** projects focused on predictive modeling and automation.  
-- **Data Analysis** to extract insights from raw data and inform decision-making.  
-- **Software Engineering** projects that involve designing and developing robust, scalable applications.  
-- Exploring **Hugging Face** and **Gen AI tools** to develop models for industrial and business applications.  
+## 👨‍💻 What I’m working on:    
+- Exploring **Huggingface** and **Gen AI tools** to develop models for industrial and business applications.  
 - Exploring **Deep Learning** for **NLP** and **computer vision** tasks.  
+- **Learning to build production-grade applications** with a complete **CI/CD pipeline**, ensuring scalability, reliability, and automation.  
 
 ## 💡 Skills:  
 
