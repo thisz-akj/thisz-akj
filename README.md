@@ -87,7 +87,4 @@ I’m aiming to step into roles such as **Machine Learning Engineer**,**AI Engin
 </a>  
 </p>  
 
----
-
-Now, your profile includes **Docker, AWS, and CI/CD**, making it more aligned with DevOps and cloud-based development. Let me know if you need any further refinements! 🚀
 
