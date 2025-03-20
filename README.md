@@ -1,6 +1,4 @@
-Here’s your updated profile with **Docker, AWS, and CI/CD** added to your skills section:  
 
----
 
 <h1 align="center">Hi 👋, I'm Azad Kumar</h1>  
 <h3 align="center">I'm a 3rd-year B.Tech student at IIIT Chennai, passionate about Machine Learning and Data Analysis. With a solid foundation in data science, I'm continuously exploring new ways to leverage data-driven techniques to solve real-world problems.</h3>  
