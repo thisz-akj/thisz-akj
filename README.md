@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Azad Kumar</h1>  
-<h3 align="center">I'm a 3rd-year B.Tech student at IIIT Chennai, passionate about Machine Learning and Data Analysis. With a solid foundation in data science, I'm continuously exploring new ways to leverage data-driven techniques to solve real-world problems.</h3>  
+<h3 align="center">I'm a 3rd-year B.Tech student at IIIT Chennai, passionate about  Machine Learning, Computer Vision, and Generative AI. With a solid foundation in data science, I'm continuously exploring new ways to leverage data-driven techniques to solve real-world problems.</h3>  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">  
 
 ## 👨‍💻 What I’m working on:    
