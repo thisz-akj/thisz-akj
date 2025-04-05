@@ -24,7 +24,7 @@
 - **NLP & Computer Vision**: SpaCy, NLTK, BERT, EasyOCR, YOLO, Object Detection and segmentation, Deep learning models
 - **LLM & Generative AI**: LangChain, Agentic AI, transformers, lllama, Chatgpt, Google, Hugging Face
 - **MLOps & Deployment**: Docker, FastAPI, Streamlit, CI/CD pipeline, AWS
-- **NLP**: Text processing, tokenization, NER, sentiment analysis , Bert Models 
+-
 
 ### Software Engineering:  
 - **Software Design**: Object-Oriented Programming (OOP), Design Patterns, Data Structures & Algorithms  
