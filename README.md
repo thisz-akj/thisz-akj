@@ -21,12 +21,14 @@
 ### Machine Learning & Data Science:  
 - **Frameworks**: TensorFlow, PyTorch, Scikit-Learn  
 - **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI  
-- **Tools**: Generative AI, Hugging Face, Deep Learning Models  
+- **NLP & Computer Vision**: SpaCy, NLTK, BERT, EasyOCR, YOLO, Object Detection and segmentation, Deep learning models
+- **LLM & Generative AI**: LangChain, Agentic AI, transformers, lllama, Chatgpt, Google, Hugging Face
+- **MLOps & Deployment**: Docker, FastAPI, Streamlit, CI/CD pipeline, AWS
 - **NLP**: Text processing, tokenization, NER, sentiment analysis , Bert Models 
 
 ### Software Engineering:  
 - **Software Design**: Object-Oriented Programming (OOP), Design Patterns, Data Structures & Algorithms  
-- **API Development**: RESTfu APIs using Flask  
+- **API Development**: RESTfull APIs using Flask  
 
 ## 🎯 Career Aspirations:  
 I’m aiming to step into roles such as **Machine Learning Engineer**,**AI Engineer**, **Data Analyst**, or **Software Engineer**, where I can use my skills in ML, data analysis, and software development to build intelligent systems that solve critical challenges.  
