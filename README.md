@@ -21,7 +21,7 @@
 ### Machine Learning & Data Science:  
 - **Frameworks**: TensorFlow, PyTorch, Scikit-Learn  
 - **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI  
-- **NLP & Computer Vision**: SpaCy, NLTK, BERT, EasyOCR, YOLO, Object Detection and segmentation, Deep learning models
+- **NLP & Computer Vision**: Tensorflow, Keras, Pytorch, OpenCV, NLTK, spaCy, BERT, Machine Learning & Deep Learning models
 - **LLM & Generative AI**: LangChain,Langflow, LangGraph, Chatbase, Voiceflow, Zapier Agentic AI, transformers, lllama, Chatgpt, Google, Hugging Face
 - **MLOps & Deployment**: Docker, FastAPI, Streamlit, CI/CD pipeline, AWS
 -
