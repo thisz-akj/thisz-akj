@@ -22,7 +22,7 @@
 - **Frameworks**: TensorFlow, PyTorch, Scikit-Learn  
 - **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI  
 - **NLP & Computer Vision**: SpaCy, NLTK, BERT, EasyOCR, YOLO, Object Detection and segmentation, Deep learning models
-- **LLM & Generative AI**: LangChain, Agentic AI, transformers, lllama, Chatgpt, Google, Hugging Face
+- **LLM & Generative AI**: LangChain,Langflow, LangGraph, Chatbase, Voiceflow, Zapier Agentic AI, transformers, lllama, Chatgpt, Google, Hugging Face
 - **MLOps & Deployment**: Docker, FastAPI, Streamlit, CI/CD pipeline, AWS
 -
 
