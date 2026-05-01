@@ -85,25 +85,6 @@ I am particularly interested in perception systems that must operate reliably un
 
 ---
 
-## Selected Work
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1cfce0d2-1bd8-4906-b6da-4f01d737f1c5" width="45%" />
-  <img src="https://github.com/user-attachments/assets/fa01da7c-16a8-4230-9721-47ea01779778" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/04d8a4e1-3fb3-4cde-a564-4612fea27c93" width="45%" />
-  <img src="https://github.com/user-attachments/assets/fa7cd41a-ec2d-4144-b555-cdaf4a3ddca4" width="45%" />
-</p>
-
-- Real-time multi-model perception stack deployed on edge MLSoC for autonomous robotic platforms  
-- Targetless camera–LiDAR calibration using SuperGlue + geometric optimization + non-linear refinement  
-- Hardware-accelerated pose estimation pipelines with optimized ONNX deployment  
-- Multi-object tracking systems for dynamic and occluded environments  
-
----
-
 ## Tech Stack
 
 <p>
