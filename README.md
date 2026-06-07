@@ -20,7 +20,7 @@ Perception Engineer | Robotics | ADAS | Real-Time Edge AI Systems
 
 ## About Me
 
-I build perception systems for robotics and ADAS applications, with a focus on real-time performance, robustness, and deployment on resource-constrained edge hardware.
+I build computer vision perception systems for robotics and ADAS applications, with a focus on real-time performance, robustness, and deployment on resource-constrained edge hardware.
 
 My work spans the full perception pipeline — detection, segmentation, tracking, pose estimation, depth estimation, and sensor fusion — integrated into ROS2-based systems operating in real-world environments.
 
